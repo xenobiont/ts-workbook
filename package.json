@@ -1,0 +1,19 @@
+{
+	"name": "workbookts-imporoved",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"start": "parcel index.html --open",
+		"build": "parcel build index.html"
+	},
+	"dependencies": {
+		"parcel-bundler": "1.12.5"
+	},
+	"devDependencies": {
+		"typescript": "4.9.4"
+	},
+	"resolutions": {
+		"@babel/preset-env": "7.13.8"
+	},
+	"keywords": []
+}
